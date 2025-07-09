@@ -1,4 +1,4 @@
-# PCA-Based Synchronization Analysis of Coupled Rossler Oscillators
+# PCA-Based Synchronization Analysis of Coupled Oscillators
 
 This repository contains the Python code for analyzing synchronization phenomena in coupled Rossler oscillators using Principal Component Analysis (PCA). The methodology is based on the research presented in the following article:
 
